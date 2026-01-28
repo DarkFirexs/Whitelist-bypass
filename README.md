@@ -3,7 +3,7 @@
 Просто **конфигурации** для обхода белых списков.
 
 ### Ссылка для приложения:
-`https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass_VPN/refs/heads/main/Whitelist%20%7C%20VPN`
+`https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass/refs/heads/main/Whitelist`
 
 ---
 
