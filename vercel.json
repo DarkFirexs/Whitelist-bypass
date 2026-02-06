@@ -1,5 +1,8 @@
 {
   "rewrites": [
-    { "source": "/Folder/sub", "destination": "/Folder/sub.js" }
+    { 
+      "source": "/api/sub", 
+      "destination": "/Folder/sub.js" 
+    }
   ]
 }
